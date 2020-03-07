@@ -14,6 +14,7 @@ $ cd VirusX
 $ chmod +x VirusX.py
 $ python2 VirusX.py
 ```
+**Do it on your own risk**
 **Type "run" to download virus.**
 
 **To update VirusX**
