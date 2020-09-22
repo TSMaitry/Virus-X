@@ -9,11 +9,13 @@
 $ apt update && apt upgrade
 $ apt install git
 $ pkg install python
+$ pkg install python2
 $ git clone https://github.com/TSMaitry/VirusX.git
 $ cd VirusX
 $ chmod +x VirusX.py
 $ python2 VirusX.py
 ```
+**Do it on your own risk**
 **Type "run" to download virus.**
 
 **To update VirusX**
